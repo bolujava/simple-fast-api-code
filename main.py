@@ -1,4 +1,4 @@
-from typing import List, ClassVar
+from typing import List
 
 from fastapi import FastAPI, HTTPException, Query, Body
 from pydantic import BaseModel
